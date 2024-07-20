@@ -11,7 +11,6 @@
         <li>HTML</li>
         <li>CSS</li>
         <li>Tailwind</li>
-        <li>SaSS</li>
         <li>Git</li>
         <li>GitHub</li>
         <li>NodeJS (Estudando)</li>
