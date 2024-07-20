@@ -17,7 +17,7 @@
         <li>NodeJS (Estudando)</li>
         <li>React (Estudando)</li>
         <li>Algoritmos / Estrutura de dados / Lógica</li>
-        <li>MongoDB(Estudando)</li>
+        <li>PostgreSQL(Estudando)</li>
         <li>SQL (Estudando)</li>
       </ul>
     </div>
