@@ -8,13 +8,14 @@
       <h3>Linguagem e Ferramentas</h3>
       <ul>
         <li>JavaScript</li>
+        <li>React (Estudando)</li>
+        <li>NodeJS (Estudando)</li>
         <li>HTML</li>
         <li>CSS</li>
         <li>Tailwind</li>
+        <li>TypeScript</li>
         <li>Git</li>
         <li>GitHub</li>
-        <li>NodeJS (Estudando)</li>
-        <li>React (Estudando)</li>
         <li>Algoritmos / Estrutura de dados / Lógica</li>
         <li>PostgreSQL(Estudando)</li>
         <li>SQL (Estudando)</li>
