@@ -13,7 +13,7 @@
         <li>HTML</li>
         <li>CSS</li>
         <li>Tailwind</li>
-        <li>TypeScript</li>
+        <li>TypeScript(Estudando)</li>
         <li>Git</li>
         <li>GitHub</li>
         <li>Algoritmos / Estrutura de dados / Lógica</li>
