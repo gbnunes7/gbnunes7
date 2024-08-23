@@ -16,6 +16,7 @@
         <li>TypeScript(Estudando)</li>
         <li>Git</li>
         <li>GitHub</li>
+        <li>Styled Components(Estudando)</li>
         <li>Algoritmos / Estrutura de dados / Lógica</li>
         <li>PostgreSQL(Estudando)</li>
         <li>SQL (Estudando)</li>
