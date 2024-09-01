@@ -8,7 +8,7 @@
       <h3>Linguagem e Ferramentas</h3>
       <ul>
         <li>JavaScript</li>
-        <li>React (Estudando)</li>
+        <li>React</li>
         <li>NodeJS (Estudando)</li>
         <li>HTML</li>
         <li>CSS</li>
