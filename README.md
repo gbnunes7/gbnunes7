@@ -19,7 +19,7 @@ Sou um aspirante a desenvolvedor full stack.
 - GitHub
 - Styled Components
 - Algoritmos / Estrutura de dados / Lógica
-- PostgreSQL (Estudando)
-- SQL (Estudando)
+- Banco de dados relacionais (MySQL e PostgreSQL)
+- Não relacionais (MongoDB)
 
 #### Go Global or Nothing!
