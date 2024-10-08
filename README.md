@@ -8,7 +8,9 @@ Sou um aspirante a desenvolvedor full stack.
 
 - JavaScript
 - React
-- NodeJS (Estudando)
+- NodeJS
+- Express
+- NextJS
 - HTML
 - CSS
 - Tailwind
