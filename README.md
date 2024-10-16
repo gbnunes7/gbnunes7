@@ -12,6 +12,7 @@ Sou um aspirante a desenvolvedor full stack.
 - Express
 - NextJS
 - HTML
+- Bootstrap
 - CSS
 - Tailwind
 - TypeScript
