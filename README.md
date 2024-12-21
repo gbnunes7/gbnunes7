@@ -8,6 +8,7 @@ Sou um aspirante a desenvolvedor full stack.
 
 - JavaScript
 - React
+- React Native
 - NodeJS
 - Express
 - NextJS
