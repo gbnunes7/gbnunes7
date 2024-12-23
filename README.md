@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Sou um aspirante a desenvolvedor full stack, apaixonado por tecnologia e inovação. Sempre em busca de novos desafios e aprendizado constante.
+Sou um desenvolvedor full stack, apaixonado por tecnologia e inovação. Sempre em busca de novos desafios e aprendizado constante.
 
 ### Linguagens e Ferramentas
 
