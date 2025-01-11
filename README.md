@@ -22,6 +22,8 @@ Sou um desenvolvedor full stack, apaixonado por tecnologia e inovação. Sempre 
 - ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 - ![Styled Components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)
+- Fastify
+- Vitest
 - Algoritmos / Estrutura de dados / Lógica
 - Banco de dados relacionais (MySQL e PostgreSQL)
 - Não relacionais (MongoDB)
