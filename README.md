@@ -1,31 +1,89 @@
-# Gabriel Nunes
+Hey there! I'm Gabriel Melo
+---
 
-![Full Stack Developer](https://via.placeholder.com/728x90.png?text=Full+Stack+Developer)
+## 👨‍💻 About Me
 
-## Sobre Mim
+> Full Stack Developer 
 
-Sou um desenvolvedor full stack, apaixonado por tecnologia e inovação. Sempre em busca de novos desafios e aprendizado constante.
+**Software developer** with 2+ experience in full stack applications, specialized in **JavaScript/TypeScript**,
+focused on building robust and scalable solutions. I have solid expertise in **React, React Native, Next.js, TypeScript,
+Node.js and PostgreSQL**, creating robust solutions that seamlessly integrate **backend, frontend, and cloud technologies**.
 
-### Linguagens e Ferramentas
+I have over **7 years of experience in the job market**, working in various areas, from customer experience to audiovisual
+production, which has equipped me with **soft skills** such as adaptability, assertive communication, and
+more
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-- ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-- ![React Native](https://img.shields.io/badge/-React%20Native-blue?style=flat-square&logo=react)
-- ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=node.js)
-- ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-- ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js)
-- ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
-- ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
-- ![Tailwind](https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square&logo=tailwind-css)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
-- ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
-- ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-- ![Styled Components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)
-- Fastify
-- Vitest
-- Algoritmos / Estrutura de dados / Lógica
-- Banco de dados relacionais (MySQL e PostgreSQL)
-- Não relacionais (MongoDB)
+---
 
-## Go Global or Nothing!
+### 📌 Current Role
+- 💻 **Full Stack Engineer Junior** at Rime Tecnologia (Bootstraping Startup)
+
+### 🎓 Education
+- 🎓 Systems Analysis and Development (UNISUAM)
+
+#### 📫 **Let's Connect:**  
+
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/gabrielmelo7/](https://www.linkedin.com/in/gabrielmelo7)
+
+- 📧 **E-mail:** [bielrj170@gmail.com](mailto:bielrj170@gmail.com)
+
+---
+
+### 🛠️ Technologies and Tools
+
+<br/>
+
+🛠️ **Languages & Frameworks**
+<br/>
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40">
+  <img src="https://reactnative.dev/img/tiny_logo.png" width="40">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40">
+  <img src="https://static-00.iconduck.com/assets.00/fastify-icon-512x329-1ypuqoar.png" width="40">
+  
+</div>
+
+<br/>
+
+**☁️ Databases & Cloud**
+
+<br/>
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40">
+  <img src="https://camo.githubusercontent.com/fefd328256fa569e9d98dae1a06d995102ccd3b605b7173b41ce39fc5588bc78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707269736d612f707269736d612d6f726967696e616c2e737667" width="40">
+</div>
+
+<br/>
+
+🛠️ **Dev & Testing**
+<br/>
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40">
+  <img src="https://camo.githubusercontent.com/954a8551a81126f038fad14802ccbc218c8569fc6d466362923c75a5bdbf489d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7669746573742f7669746573742d706c61696e2e737667" width="40">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" width="40">
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+![Gabriel Melo Status](https://github-readme-stats.vercel.app/api?username=gbnunes7&show_icons=true)
+
+
+
