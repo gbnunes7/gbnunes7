@@ -84,6 +84,8 @@ more
 ### 📊 GitHub Stats
 
 ![Gabriel Melo Status](https://github-readme-stats.vercel.app/api?username=gbnunes7&show_icons=true)
+---
 
+### GO GLOBAL OR NOTHING
 
 
