@@ -78,7 +78,7 @@ more
   <img src="https://camo.githubusercontent.com/954a8551a81126f038fad14802ccbc218c8569fc6d466362923c75a5bdbf489d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7669746573742f7669746573742d706c61696e2e737667" width="40">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" width="40">
 </div>
-
+<br/>
 🖥️**Infra & Devops**
 <div style="display: flex; gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" />
