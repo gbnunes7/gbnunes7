@@ -47,6 +47,7 @@ more
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40">
   <img src="https://static-00.iconduck.com/assets.00/fastify-icon-512x329-1ypuqoar.png" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">
   
 </div>
 
