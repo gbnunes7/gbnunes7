@@ -16,7 +16,7 @@ more
 ---
 
 ### 📌 Current Role
-- 💻 **Full Stack Engineer Junior** at Rime Tecnologia (Bootstraping Startup)
+- 💻 **Full Stack Engineer** at Rime Tecnologia (Bootstraping Startup)
 
 ### 🎓 Education
 - 🎓 Systems Analysis and Development (UNISUAM)
