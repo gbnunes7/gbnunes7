@@ -16,8 +16,8 @@ more
 ---
 
 ### 📌 Current Role
-- 💻 **Full Stack Engineer** at Rime Tecnologia (Bootstraping Startup)
-
+- 💻 **Full Stack Engineer** @SharkDev | On-site at Mutual Pay (Bootstrapping Fintech)
+- 
 ### 🎓 Education
 - 🎓 Systems Analysis and Development (UNISUAM)
 
