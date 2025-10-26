@@ -16,7 +16,7 @@ more
 ---
 
 ### 📌 Current Role
-- 💻 **Full Stack Engineer** @SharkDev | On-site at Mutual Pay (Bootstrapping Fintech)
+- 💻 **Mid Level Full Stack Engineer** @Branddi 
 
 ### 🎓 Education
 - 🎓 Systems Analysis and Development (UNISUAM)
