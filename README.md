@@ -6,7 +6,7 @@ Hey there! I'm Gabriel Melo
 > Full Stack Developer 
 
 **Software developer** with 2+ experience in full stack applications, specialized in **JavaScript/TypeScript**,
-focused on building robust and scalable solutions. I have solid expertise in **React, React Native, Next.js, TypeScript,
+focused on building robust and scalable solutions. I have solid expertise in **React, React Native, Next.js, TypeScript, GO,
 Node.js and PostgreSQL**, creating robust solutions that seamlessly integrate **backend, frontend, and cloud technologies**.
 
 I have over **7 years of experience in the job market**, working in various areas, from customer experience to audiovisual
