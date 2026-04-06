@@ -17,7 +17,7 @@ Proactive builder, startup bootstrapper, and content creator with a community of
 ## 🚀 Key Ventures
 
 ### PresenceDev.AI  
-**Founder Engineer & CEO**  
+**Founder Engineer**  
 **2026 – Present**  
 AI-powered SaaS for LinkedIn content generation, scheduling, and automated publishing, built for developers and founders aiming to build authority online consistently.  
 🔗 [presencedev.com.br](https://presencedev.com.br)
