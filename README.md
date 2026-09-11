@@ -32,7 +32,7 @@ AI-powered SaaS for LinkedIn content generation, scheduling, and automated publi
 
 ## 📌 Current Role
 
-- 💻 **Mid-Level Full Stack Engineer** @ Branddi
+- 💻 **Senior AI Full Stack Engineer** @ Ramada Atacadista
 
 ---
 
